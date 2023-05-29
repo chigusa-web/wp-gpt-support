@@ -1,0 +1,21 @@
+table.gpt-table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 20px;
+}
+
+.gpt-table th {
+    padding: 10px;
+    background: #d1d1d1;
+    border: solid 1px #778ca3;
+}
+
+.gpt-table td {
+    padding: 10px;
+    background: #fff;
+    border: solid 1px #778ca3;
+    width: 50%;
+    white-space: pre-wrap;
+    vertical-align: top;
+}
